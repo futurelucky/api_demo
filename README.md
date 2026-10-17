@@ -33,7 +33,6 @@ api_demo/
 ├── conftest.py
 ├── pytest.ini
 ├── clients/
-├── data/
 └── tests/
 ```
 
